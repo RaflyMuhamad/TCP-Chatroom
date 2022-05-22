@@ -1,0 +1,4 @@
+﻿  main.cpp
+G:\Kuliah\Semester 4\Arsitektur Jaringan Komputer\Chatroom TCP\Server\Server\main.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+G:\Kuliah\Semester 4\Arsitektur Jaringan Komputer\Chatroom TCP\Server\Server\main.cpp(109,2): warning C4551: function call missing argument list
+  Server.vcxproj -> G:\Kuliah\Semester 4\Arsitektur Jaringan Komputer\Chatroom TCP\Server\Debug\Server.exe
